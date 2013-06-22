@@ -1,0 +1,17 @@
+Package: -cb0ccb7de815ae46207a977ad0df920e9fc56ce.new
+Name: new
+Version: 0.1-1
+Description: 
+Section: Addons (AssistantExtensions)
+Depends: firmware (>= 5.0), gsc.assistant, mobilesubstrate, me.k3a.ae
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: arturo alonso
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
