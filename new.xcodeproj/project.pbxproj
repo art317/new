@@ -48,7 +48,6 @@
 		D1B139251775D54800E0F653 /* newCommands.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newCommands.m; sourceTree = "<group>"; };
 		D1B139271775D54800E0F653 /* newSnippet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newSnippet.h; sourceTree = "<group>"; };
 		D1B139281775D54800E0F653 /* newSnippet.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newSnippet.m; sourceTree = "<group>"; };
-		D1B1392A1775D54800E0F653 /* newExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = newExtension.h; sourceTree = "<group>"; };
 		D1B1392B1775D54800E0F653 /* newExtension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = newExtension.m; sourceTree = "<group>"; };
 		D1B1392D1775D54800E0F653 /* newNib.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = newNib.xib; sourceTree = "<group>"; };
 		D1B139321775D54800E0F653 /* newTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = newTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
